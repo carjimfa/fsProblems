@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="find-duplicated.fsx" />
     <None Include="sum-of-squares.fsx" />
     <None Include="find-maximum.fsx" />
   </ItemGroup>
